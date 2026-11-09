@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/zerithm-react/static/css/main.6740ef4c.css",
+    "main.js": "/zerithm-react/static/js/main.1b365a02.js",
+    "index.html": "/zerithm-react/index.html",
+    "main.6740ef4c.css.map": "/zerithm-react/static/css/main.6740ef4c.css.map",
+    "main.1b365a02.js.map": "/zerithm-react/static/js/main.1b365a02.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6740ef4c.css",
+    "static/js/main.1b365a02.js"
+  ]
+}
